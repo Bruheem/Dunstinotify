@@ -8,7 +8,3 @@ a script that notifies you about system events.
 - [ ] Detect cpu usage
 - [ ] Detect temperature
 - [x] Notify when battery is fully charged/low
-
-### Bonus
-- [ ] remind to take a break
-- [ ] remind to do mini-tasks
