@@ -1,2 +1,2 @@
 # Dunstinotify
-a script that notifies you about different system events.
+a script that notifies you about system events!
